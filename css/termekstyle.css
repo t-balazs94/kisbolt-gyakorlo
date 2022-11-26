@@ -1,0 +1,21 @@
+body
+{
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(to right,black, gray, black);
+}
+
+nav ul li a
+{
+    color: limegreen;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav ul li
+{
+     list-style-type: none;
+     font-size: 20px;
+     padding: 20px;
+     display: inline;
+}
